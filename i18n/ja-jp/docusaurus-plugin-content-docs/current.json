@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Announcement": {
+    "message": "Announcement",
+    "description": "The label for category Announcement in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Beginner Guide": {
+    "message": "Beginner Guide",
+    "description": "The label for category Beginner Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Earl mine pool": {
+    "message": "Earl mine pool",
+    "description": "The label for category Earl mine pool in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Business Description": {
+    "message": "Business Description",
+    "description": "The label for category Business Description in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.FAQ": {
+    "message": "FAQ",
+    "description": "The label for category FAQ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Terms Description": {
+    "message": "Terms Description",
+    "description": "The label for category Terms Description in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Abount": {
+    "message": "Abount",
+    "description": "The label for category Abount in sidebar tutorialSidebar"
+  }
+}
