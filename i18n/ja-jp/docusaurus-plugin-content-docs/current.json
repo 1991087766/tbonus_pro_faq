@@ -11,11 +11,11 @@
     "message": "Beginner Guide",
     "description": "The label for category Beginner Guide in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Earl mine pool": {
-    "message": "Earl mine pool",
+  "sidebar.tutorialSidebar.category.Earl Pool": {
+    "message": "Earl Pool",
     "description": "The label for category Earl mine pool in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Business Description": {
+  "sidebar.tutorialSidebar.category.Business Center": {
     "message": "Business Description",
     "description": "The label for category Business Description in sidebar tutorialSidebar"
   },
@@ -23,12 +23,12 @@
     "message": "FAQ",
     "description": "The label for category FAQ in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Terms Description": {
+  "sidebar.tutorialSidebar.category.Terms and Conditions": {
     "message": "Terms Description",
     "description": "The label for category Terms Description in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Abount": {
-    "message": "Abount",
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "About",
     "description": "The label for category Abount in sidebar tutorialSidebar"
   }
 }

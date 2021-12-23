@@ -11,6 +11,9 @@
 
 // @ts-check
 
+// import React from "react";
+// import Translate, {translate} from '@docusaurus/Translate';
+
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
@@ -26,6 +29,7 @@ const sidebars = {
     },
   ],
    */
+
 
 
   tutorialSidebar: [
@@ -46,7 +50,7 @@ const sidebars = {
     },
     {
       type: 'category', //伯爵矿池
-      label: 'Earl mine pool',
+      label: 'Earl Pool',
       items: [
         'business/PointPool',  // 积分宝
         'business/VipNode',  // VIP节点
@@ -57,7 +61,7 @@ const sidebars = {
     },
     {
       type: 'category', // 业务中心
-      label: 'Business Description',
+      label: 'Business Center',
       items: [
 
       ],
@@ -71,16 +75,17 @@ const sidebars = {
     },
     {
       type: 'category', // 条款说明
-      label: 'Terms Description',
+      label: 'Terms and Conditions',
       items: [
 
       ],
     },
     {
       type: 'category', // 关于我们
-      label: 'Abount',
+      label: 'About',
       items: [
         'about/TbonusPro', // TP介绍
+        'about/ContactUs', // TP介绍
       ],
     },
   ],

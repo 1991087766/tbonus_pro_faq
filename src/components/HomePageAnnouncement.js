@@ -26,6 +26,7 @@ function Feature({title,Svg, url}) {
                             <Translate
                                 id={title}
                                 description="The homepage welcome message">
+                                {title}
                             </Translate>
                         </Link>
                     </h4>

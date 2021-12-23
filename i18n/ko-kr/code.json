@@ -1,38 +1,38 @@
 {
   "About": {
-    "message": "关于我们",
+    "message": "About",
     "description": "首页"
   },
-  "Business description": {
-    "message": "业务中心",
+  "Business Center": {
+    "message": "안내센터",
     "description": "首页"
   },
   "Announcement": {
-    "message": "公告中心",
+    "message": "공지사항",
     "description": "首页公告"
   },
   "Beginner Guide": {
-    "message": "初学指南",
+    "message": "이용안내",
     "description": "首页分类"
   },
-  "Earl mine pool": {
-    "message": "伯爵矿池",
-    "description": "首页分类"
+  "Earl Pool": {
+    "message": "얼풀",
+    "description": "伯爵矿池"
   },
   "FAQ": {
-    "message": "常见问题",
-    "description": "首页分类"
+    "message": "자주하는질문",
+    "description": "常见问题"
   },
-  "Terms Description": {
-    "message": "条款说明",
-    "description": "首页分类"
+  "Terms and Conditions": {
+    "message": "조항설명",
+    "description": "条款说明"
   },
   "My Slogan": {
-    "message": "欢迎来到TbonusPro2",
-    "description": "The homepage welcome message"
+    "message": "환영합니다Slogan",
+    "description": "Slogan"
   },
   "Welcome to TbonusPro": {
-    "message": "欢迎来到TbonusPro",
+    "message": "환영합니다",
     "description": "首页欢迎语"
   },
   "theme.ErrorPageContent.title": {

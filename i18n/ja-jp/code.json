@@ -3,7 +3,7 @@
     "message": "关于我们",
     "description": "首页"
   },
-  "Business description": {
+  "Business Center": {
     "message": "业务中心",
     "description": "首页"
   },
@@ -15,7 +15,7 @@
     "message": "初学指南",
     "description": "首页分类"
   },
-  "Earl mine pool": {
+  "Earl Pool": {
     "message": "伯爵矿池",
     "description": "首页分类"
   },
@@ -23,7 +23,7 @@
     "message": "常见问题",
     "description": "首页分类"
   },
-  "Terms Description": {
+  "Terms and Conditions": {
     "message": "条款说明",
     "description": "首页分类"
   },

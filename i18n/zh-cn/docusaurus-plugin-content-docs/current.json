@@ -15,7 +15,7 @@
     "message": "初学指南",
     "description": "导航目录"
   },
-  "sidebar.tutorialSidebar.category.Earl mine pool": {
+  "sidebar.tutorialSidebar.category.Earl Pool": {
     "message": "伯爵矿池",
     "description": "导航目录"
   },
@@ -27,15 +27,15 @@
     "message": "常见问题",
     "description": "导航目录"
   },
-  "sidebar.tutorialSidebar.category.Terms Description": {
+  "sidebar.tutorialSidebar.category.Terms and Conditions": {
     "message": "条款说明",
     "description": "导航目录"
   },
-  "sidebar.tutorialSidebar.category.Business Description": {
+  "sidebar.tutorialSidebar.category.Business Center": {
     "message": "业务中心",
     "description": "导航目录"
   },
-  "sidebar.tutorialSidebar.category.Abount": {
+  "sidebar.tutorialSidebar.category.About": {
     "message": "关于我们",
     "description": "导航目录"
   }

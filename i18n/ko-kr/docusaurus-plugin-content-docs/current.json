@@ -12,31 +12,31 @@
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Beginner Guide": {
-    "message": "初学指南",
-    "description": "导航目录"
+    "message": "이용안내",
+    "description": "新手引导"
   },
-  "sidebar.tutorialSidebar.category.Earl mine pool": {
-    "message": "伯爵矿池",
-    "description": "导航目录"
+  "sidebar.tutorialSidebar.category.Earl Pool": {
+    "message": "얼풀",
+    "description": "伯爵矿池"
   },
   "sidebar.tutorialSidebar.category.Announcement": {
-    "message": "公告中心",
-    "description": "导航目录"
+    "message": "공지사항",
+    "description": "公告中心"
   },
   "sidebar.tutorialSidebar.category.FAQ": {
-    "message": "常见问题",
-    "description": "导航目录"
+    "message": "자주하는질문",
+    "description": "常见问题"
   },
-  "sidebar.tutorialSidebar.category.Terms Description": {
-    "message": "条款说明",
-    "description": "导航目录"
+  "sidebar.tutorialSidebar.category.Terms and Conditions": {
+    "message": "조항설명",
+    "description": "条款说明"
   },
-  "sidebar.tutorialSidebar.category.Business Description": {
-    "message": "业务中心",
-    "description": "导航目录"
+  "sidebar.tutorialSidebar.category.Business Center": {
+    "message": "안내센터",
+    "description": "业务中心"
   },
-  "sidebar.tutorialSidebar.category.Abount": {
-    "message": "关于我们",
-    "description": "导航目录"
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "About",
+    "description": "关于我们"
   }
 }
