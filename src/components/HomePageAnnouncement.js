@@ -18,9 +18,6 @@ function Feature({title,Svg, url}) {
         <div className={clsx('col col--12')}>
             <Link to={url}>
                 <div className="text--center home_type_background home_type_faq_bg">
-                    {/*<div className={clsx('col ')}>*/}
-
-                    {/*</div>*/}
                     <div className="text--center padding-horiz--md home_type_faq">
                         <h4 className="home_text">
                             <Translate
