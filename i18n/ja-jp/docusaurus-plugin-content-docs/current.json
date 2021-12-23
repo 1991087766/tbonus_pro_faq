@@ -4,31 +4,31 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Announcement": {
-    "message": "Announcement",
+    "message": "お知らせ",
     "description": "The label for category Announcement in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Beginner Guide": {
-    "message": "Beginner Guide",
+    "message": "初心者ガイド",
     "description": "The label for category Beginner Guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Earl Pool": {
-    "message": "Earl Pool",
+    "message": "伯爵マイニングプール",
     "description": "The label for category Earl mine pool in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Business Center": {
-    "message": "Business Description",
+    "message": "業務センター",
     "description": "The label for category Business Description in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.FAQ": {
-    "message": "FAQ",
+    "message": "よくある質問",
     "description": "The label for category FAQ in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Terms and Conditions": {
-    "message": "Terms Description",
+    "message": "条約説明",
     "description": "The label for category Terms Description in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.About": {
-    "message": "About",
+    "message": "私たちについて",
     "description": "The label for category Abount in sidebar tutorialSidebar"
   }
 }

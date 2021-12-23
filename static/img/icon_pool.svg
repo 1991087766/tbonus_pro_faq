@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="129px" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_pool</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV备份-9" transform="translate(-1505.000000, -183.000000)">
+            <g id="icon_pool" transform="translate(1505.053785, 183.500000)">
+                <rect id="矩形备份-4" fill="#D8D8D8" opacity="0" x="0" y="0" width="128" height="128"></rect>
+                <g id="编组" transform="translate(15.850000, 19.636650)" stroke-width="6">
+                    <g id="编组-6" stroke="#191C1E">
+                        <polyline id="路径" points="32.9701899 40.4711952 65.3722763 0 94 63.6577469 50.6418694 63.6577469"></polyline>
+                        <polygon id="路径-3" points="21.487726 25.8999501 51.3086359 63.6577469 2.09876844e-13 63.6577469 2.09876844e-13 60.1925877"></polygon>
+                    </g>
+                    <g id="编组-7" transform="translate(4.847249, 74.430117)" stroke="#3EB897">
+                        <line x1="0" y1="0.468363903" x2="84.3055025" y2="0.468363903" id="路径-4"></line>
+                        <line x1="9.36727806" y1="11.7090976" x2="74.9382245" y2="11.7090976" id="路径-5"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

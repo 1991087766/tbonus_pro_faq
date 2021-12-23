@@ -8,7 +8,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
     {
         title: "Beginner Guide",
-        Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+        Svg: require('../../static/img/icon_guide.svg').default,
         url: "/docs/about/TbonusPro",
     },
 ];
@@ -16,28 +16,26 @@ const FeatureList = [
 function Feature({title,Svg, url}) {
     return (
         <div className={clsx('col col--12')}>
-            <div className="text--center home_type_background home_type_faq_bg">
-                <div className={clsx('col ')}>
+            <Link to={url}>
+                <div className="text--center home_type_background home_type_faq_bg">
+                    {/*<div className={clsx('col ')}>*/}
 
-                </div>
-                <div className="text--center padding-horiz--md home_type_faq">
-                    <h4 className="home_text">
-                        <Link to={url}>
+                    {/*</div>*/}
+                    <div className="text--center padding-horiz--md home_type_faq">
+                        <h4 className="home_text">
                             <Translate
                                 id={title}
                                 description="The homepage welcome message">
                                 {title}
                             </Translate>
-                        </Link>
-                    </h4>
-                </div>
-                <div className="text--center padding-horiz--md home_type_faq home_type_faq_r">
-                    <Link to={url}>
+                        </h4>
+                    </div>
+                    <div className="text--center padding-horiz--md home_type_faq home_type_faq_r">
                         <Svg className="home_type_icon"/>
-                    </Link>
-                </div>
-            </div>
 
+                    </div>
+                </div>
+            </Link>
         </div>
     );
 }

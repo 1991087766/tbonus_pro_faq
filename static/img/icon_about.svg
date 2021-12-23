@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="129px" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_about</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV备份-9" transform="translate(-1505.000000, -527.000000)">
+            <g id="icon_about" transform="translate(1505.026892, 527.500000)">
+                <rect id="矩形备份-10" fill="#D8D8D8" opacity="0" x="0" y="0" width="128" height="128"></rect>
+                <g id="编组-9" transform="translate(16.095711, 22.000000)" stroke-width="6">
+                    <g id="编组-3" transform="translate(-0.000000, 0.000000)">
+                        <circle id="椭圆形" stroke="#191C1E" cx="34.9109154" cy="23.6684172" r="23.6684172"></circle>
+                        <path d="M67.031741,47.521744 C77.0583336,47.521744 85.1864929,39.3935847 85.1864929,29.3669921 C85.1864929,19.3403995 77.0583336,11.2122403 67.031741,11.2122403" id="路径" stroke="#3EB897"></path>
+                        <path d="M69.8218308,82.2477499 C69.8218308,62.9669837 54.1916816,47.3368345 34.9109154,47.3368345 C15.6301492,47.3368345 0,62.9669837 0,82.2477499" id="路径" stroke="#191C1E"></path>
+                        <path d="M93.81,74.3000029 C93.81,59.5107789 81.8209651,47.521744 67.031741,47.521744" id="路径" stroke="#3EB897"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

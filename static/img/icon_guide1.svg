@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="129px" viewBox="0 0 128 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_guide1</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV备份-9" transform="translate(-285.000000, -183.000000)">
+            <g id="icon_guide1" transform="translate(285.000000, 183.500000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="128" height="128"></rect>
+                <g id="编组备份-2" transform="translate(18.000000, 18.000000)">
+                    <circle id="椭圆形" stroke="#191C1E" stroke-width="6" cx="46" cy="46" r="43"></circle>
+                    <path d="M46,21.2268193 L57.6787852,46 L46,70.7731807 L34.3212148,46 L46,21.2268193 Z" id="矩形" stroke="#3EB897" stroke-width="6" transform="translate(46.000000, 46.000000) rotate(-315.000000) translate(-46.000000, -46.000000) "></path>
+                    <circle id="椭圆形" fill="#3EB897" transform="translate(46.000000, 46.000000) rotate(-315.000000) translate(-46.000000, -46.000000) " cx="46" cy="46" r="3.22"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

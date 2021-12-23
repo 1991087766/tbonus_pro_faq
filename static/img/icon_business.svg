@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="129px" viewBox="0 0 128 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_business</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV备份-9" transform="translate(-895.000000, -183.000000)">
+            <g id="icon_business" transform="translate(895.000000, 183.500000)">
+                <rect id="矩形备份-2" fill="#D8D8D8" opacity="0" x="0" y="0" width="128" height="128"></rect>
+                <g id="编组-2" transform="translate(19.627329, 26.000000)" stroke-width="6">
+                    <rect id="矩形" stroke="#191C1E" x="3" y="3" width="82.7453416" height="60.0869565"></rect>
+                    <line x1="15.8035624" y1="75.5279503" x2="72.4495251" y2="75.5279503" id="路径-9" stroke="#191C1E"></line>
+                    <polyline id="路径-10" stroke="#3EB897" points="16.0496894 31.8174365 29.6661866 31.8174365 39.255083 39.6670385 45.0743886 26.4496472 53.6448277 39.6670385 58.527844 31.8174365 72.6956522 31.8174365"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
