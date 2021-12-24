@@ -27,7 +27,7 @@ const FeatureList = [
         description: "/docs/FAQ/faq_sms",
     },
     {
-        title: 'Terms and Conditions',
+        title: 'Term Description',
         Svg: require('../../static/img/icon_clause.svg').default,
         description: "/docs/TermsDescription/Agreement",
     },

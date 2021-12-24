@@ -23,7 +23,7 @@
     "message": "よくある質問",
     "description": "The label for category FAQ in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Terms and Conditions": {
+  "sidebar.tutorialSidebar.category.Term Description": {
     "message": "条約説明",
     "description": "The label for category Terms Description in sidebar tutorialSidebar"
   },
