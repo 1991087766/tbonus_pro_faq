@@ -77,7 +77,8 @@ const sidebars = {
       type: 'category', // 条款说明
       label: 'Terms and Conditions',
       items: [
-
+        'TermsDescription/Agreement',
+        'TermsDescription/Disclaimer', // 免责声明
       ],
     },
     {

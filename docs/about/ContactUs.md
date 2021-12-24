@@ -1,9 +1,9 @@
 ---
-title: 联系我们
+title: Contact us
 hide_table_of_contents: true
 ---
 
-## 联系方式 ☎️
+## ☎️
 
 ---
 
