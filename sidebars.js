@@ -33,13 +33,13 @@ const sidebars = {
 
 
   tutorialSidebar: [
-    {
-      type: 'category',  //公告中心
-      label: 'Announcement',
-      items: [
-
-      ],
-    },
+    // {
+    //   type: 'category',  //公告中心
+    //   label: 'Announcement',
+    //   items: [
+    //
+    //   ],
+    // },
     {
       type: 'category',  //新手指南
       label: 'Beginner Guide',

@@ -36,7 +36,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-          <HomePageListFAQ />
+          {/*<HomePageListFAQ />*/}
       </main>
     </Layout>
   );
