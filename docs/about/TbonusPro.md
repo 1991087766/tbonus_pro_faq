@@ -1,15 +1,14 @@
 ---
-title: TbonusPro简介
+title: Tbonus Pro Introduction
 hide_table_of_contents: true
 ---
 
+Tbonus Pro (hereinafter referred to as TP), established by Tlark Custody LTD, is a digital-asset custody and financial-product management platform. It is supported by Tokencan in HongKong, TenetDS in Korea, 1475 Team in China, Chainup in Singapore and other professional institutions in both product operation and technology development.  TP team members came from world-class Internet companies, like Baidu, Google, UnionPay, Huawei, and have rich experience in fiance, big data, AI, hardware, storage technology and decentralized encryption.
 
-“Tbonus Pro（以下简称TP）”是由韩国Tlark Custody LTD（天灵托管有限公司）推出的数字资产托管及理财产品管理平台。并由香港Tokencan、韩国TenetDS、中国1475、新加坡Chainup等专业机构提供产品运营及技术支持。TP的开发及运营团队成员来自百度、谷歌、银联、华为等互联网龙头企业，分别具备金融、大数据、AI算法、硬件、存储、分布式加密等专业技能。
+TP has established partnerships or coordinated with multiple exchanges, 150 wallets, 120 liquidity providers, 500 Waas Union customers and over a thousand of miners. Leveraging its advantages, TP rolls out “PoS Pool” for crypto users, “Points Pool” for traditional customers, “VIP Node”for high-net asset personnel, “Mining Pool”in collecting pledge coin for sealing real data on Filecoin network, and ZettaPool for retail storage power investors. Besides, it has also established Filecoin Mining Fund, DeFi Fund, Quantitative FOF and other Token Fund.
 
-TP以多家数字资产交易所客户、150多家钱包客户、120多家流动性客户、500多家 WaaS联盟客户以及上千家矿业客户为依托，推出了面向币圈客户的“存币宝”产品，面向传统客户的“积分宝”产品，面向高净值客户的“VIP节点”产品，面向为“Filecoin真实数据封装”提供质押币的“挖矿宝”产品，面向普通算力投资客户的ZettaPool产品等，以及Filecoin矿业基金、Defi基金、量化FOF基金等Token Fund产品。
+Tfil is a point mechanism in TP. TP point is quite different from other ordinary points because it is pegged with specific financial product. At the moment, Tfil is pegged with 0.001T Filecoin storage power. Calculated by the current price, 1 Tfil equals to 400 Korean Won. Going forward, Tfil can be pegged to a basket of financial assets valued 400KRW. Any users are able to buy the points at any time and stake them in “Points Pool” to earn interest. Tfil has a stable price, which can be used to swap any products on TP, including specific stablecoins like Metacoin, USDT, USDC, etc.
 
-TP内设了一种积分，被命名为Tfil，TP的积分与普通积分最大不同在于，它锚定了我们的特定理财资产，当前Tfil的锚定资产是0.001T的Filecoin算力，以当前的价格计算，相当于400元韩币。未来，Tfil可以锚定一个价值400元韩币的一揽子理财资产计划。任何客户都可以随时购买积分，通过把积分存入“积分宝”，来激活积分的理财收益。Tfil具有稳定的价格，它可以用来兑换TP内的所有产品，同时也可以兑换特定的稳定币，比如Metacoin、USDT、USDC等。
+The most valuable digital assets will be in metaverse in the future. The economic or financial system of metaverse will be composed of NFT and governance tokens. Assets must be managed by professional teams, so that they can be appreciated. As such, TP aims to be one of the top management teams to help customers manage best metaverse assets or tokens. This will not only enrich TP asset pools, but also bring TP’s users high value-added financial services.
 
-未来最有价值的数字资产将存在于元宇宙社会。元宇宙的经济系统或金融系统将由NFT资产和Token治理币构成，资产需要专业的管理，才具备增值的效应。因此，TP未来的核心资产管理目标就是顶尖的元宇宙世界中的资产及货币，从而，大大的丰盈了TP的资产池，为TP的广大客户提供高附加值的理财服务。
-
-TP研发团队根据科学的方法来分析、管理、创建其产品系列，目前已成功进军至韩国、中国、香港、日本、印度、东南亚、南美、非洲等地区并设立合作公司，为业务拓展搭建了坚实的基础。TP力图为当地的客户提供量身定制的数字资产托管及理财产品。
+TP team’s suit of products are based on scientific analysis and created based on market conditions. Now TP has successfully entered marketplaces in Korea, China, Hong Kong China, Japan, India, Southeast Asia, South America, Africa and established cooperation corporations. This lays solid foundation for carrying out businesses in local markets and empowers TP to offer customized digital-asset custody and financial services. 

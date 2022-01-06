@@ -12,15 +12,15 @@ function HomepageHeader() {
   return (
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
           <div className="container">
-              <h1 className="hero__title">
+              <h3 className="hero__title">
                   <Translate
                       id="Welcome to TbonusPro"
                   >Welcome to TbonusPro!</Translate>
-              </h1>
+              </h3>
               <p className="hero__subtitle">
                   <Translate
                       id="My Slogan"
-                  >My Slogan</Translate>
+                  >Make Life Better</Translate>
               </p>
           </div>
       </header>

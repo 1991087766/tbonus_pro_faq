@@ -1,28 +1,28 @@
 ---
-title: 官方算力
+title: TP’s Official Storage-power Product
 hide_table_of_contents: true
 ---
 
+### Target: 
+Cryptocurrency users
 
+### Characteristics: 
+Sell by TP itself with transparent rules and reliable yield.
 
-1．用户群：面向币圈用户
+### Investment orientation: 
+TenetDS and 1475 Team will be responsible for the investment management. TP provides ordinary storage-power product and the upgraded product. For the ordinary product, investors only invest for the hardware for FIL mining, so the investor can only receive the yield that produce from the hardware. Nevertheless, users are able to upgrade their ordinary product to receive not only the yield from the hardware but also from the pledging coins, so the yield will be much higher.
 
-2．特点：官方直销，规则透明，收益可靠
-
-3．投资方向：由TenetDS、1475等资管机构负责投资管理。官方销售算力有两种方式，第一种为普通算力，用户的投资费用为FIL节点存储设备的硬件费用，用户只获得Filecoin节点的硬件部分产生的收益。用户在投资了普通算力后，获得升级的权利，在用户选择升级后，将获得满算力，满算力产生的收益为Filecoin节点硬件部分及质押部分收益，收益大大提高。
-
-4．产品细则：
-
-（1）普通算力购买价格：1T = 40万韩元（附加税另算）
-
-（2）官方收取托管费：每日产生奖励的20%（根据市场状况有所变动）
-
-（3）客户收益计算：Filecoin节点的硬件部分产生的收益为，每日产生奖励去除官方托管费后的30%；在升级满算力后：每日产生奖励去除官方托管费后的100%
-
-（4）质押数量：1T = 5.5FIL (合同到期之后，将质押币返还至投资客户)
-
-（5）GAS数量：1T = 0.5FIL (数据封装1次时，需要消耗GAS，GAS由FIL来进行支付）
-
-（6）合同期限：一年（最长五年）
-
-（7）收益发放：每周一发放给客户
+### Product details:
+> (1)Selling price of ordinary product: 1T = 400,000KRW (not includes additional tax)
+> 
+> (2)Custody fee charged by TP: 20% daily mining yield (changing based on the market)
+> 
+> (3)Earning calculation: the earnings produced by filecoin hardware is the 30% of the daily mining yield after deducting the custody fee, while after upgrading, the earnings will be 100% of the daily mining yield after deducting the custody fee.
+> 
+> (4)Pledge amount: 1T = 5.5FIL (When contract expires, the pledged FIL will be returned to investors)
+> 
+> (5)GAS fee: 1T = 0.5FIL (Sealing data will cost GAS which is paid by FIL)
+> 
+> (6)Contract term: 1 year (the longest is 5 year term)
+> 
+> (7)Earning distribution: Earnings will be distributed on every Monday.

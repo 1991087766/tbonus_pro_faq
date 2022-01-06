@@ -63,7 +63,7 @@ const sidebars = {
       type: 'category', // 业务中心
       label: 'Business Center',
       items: [
-
+        'business/PoSPool',  // 存币宝
       ],
     },
     {

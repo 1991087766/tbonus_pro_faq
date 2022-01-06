@@ -14,7 +14,7 @@ const FeatureList = [
     {
         title: 'Business Center',
         Svg: require('../../static/img/icon_business.svg').default,
-        description: "/docs/business/FilPower",
+        description: "/docs/business/PoSPool",
     },
     {
         title: "Earl Pool",

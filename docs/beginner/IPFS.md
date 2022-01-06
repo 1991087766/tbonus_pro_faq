@@ -1,33 +1,38 @@
 ---
-title: IPFS去中心化存储
+title: What is IPFS?
 hide_table_of_contents: true
 ---
 
+IPFS stands for Interplanetary File System. At its core it is a versioned file system which can store files and track versions over time, very much like Git. It also defines how files move across a network, making it a distributed file system, much like BitTorrent. In combining these two properties, IPFS enables a new permanent web and augments the way we use existing internet protocols like HTTP.
 
-IPFS，是一个点对点的分布式文件系统协议，也被称为“星际文件系统”。在应用场景中，“IPFS”对标的是一个叫“HTTP”的东西，这你可能比较熟悉，当你上网打开百度搜索页面时，它所见即所得。
+Simply put, the internet is a collection of protocols that describe how data moves around a network. Developers adopted these protocols over time and built their applications on top of this infrastructure. One of the protocols that serves as the backbone of the web is HTTP or HyperText Transfer Protocol. This was invented by Tim Berners-Lee in 1991.
 
-这个名叫“超文本传输协议”的家伙，是通过你输入的网址，来调取匹配其中心化数据库的内容，达到信息内容访问的目的在这个协议中，IPFS把文件在系统中如何存储、索引和传输都定义好，也就是将上传好的文件转换成专门的数据格式进行存储，同时IPFS会将相同的文件进行了hash计算，确定其唯一的地址。所以无论在任何设备，任意地点，相同的文件都会指向相同的地址（不同于URL，这种地址是原生的，由加密算法保证的，你无法改变，也无需改变）。然后通过一个文件系统将网络中所有的设备连接起来，然后让存储在IPFS系统上的文件，在全世界任何一个地方快速获取，且不受防火墙的影响（无需网络代理）。所以从根本上说，IPFS能改变WEB内容的分发机制，使其完成去中心化。
+HTTP is a request-response protocol. A client, for example a web browser, sends a request to an external server. The server then returns a response message, for example, the Google homepage back to the client. This is a location-addressed protocol which means when I type google.com into my browser, it gets translated into an IP address of some Google server, then the request-response cycle is initiated with that server.
 
+### Problems with HTTP
 
+Let’s say you are sitting in a lecture hall, and the professor asks you to go to a specific website. Every student in the lecture makes a request to that website and are given a response. This means that the same exact data was sent individually to each student in the room. If there are 100 students, then that’s 100 requests and 100 responses. This is obviously not the most efficient way to do things. Ideally, the students will be able to leverage their physical proximity to more efficiently retrieve the information they need.
 
-### IPFS应用场景
+HTTP also presents a big problem if there is some problem in the networks line of communication and the client is unable to connect with the server. This can happen if an ISP has an outage, a country is blocking some content, or if the content was simply deleted or moved. These types of broken links exist everywhere on the HTTP web.
 
-1、如果你有1G的硬盘空闲空间，可以通过将此硬盘接入IPFS的网络变成其中节点，完成硬盘空间共享；
+The location-based addressing model of HTTP encourages centralization. It’s convenient to trust a handful of applications with all our data but because of this much of the data on the web becomes siloed. This leaves those providers with enormous responsibility and power over our information.
 
-2、这时你就可以上传歌曲、电影于IPFS共享网络中，它们将被“打碎”成二进制的数据字节，散布于IPFS网络其他各个节点之上（共享空间）；
+### How does IPFS work?
 
-3、当他人想下载你上传的视频影音文件时，只需在IPFS的网络完成内容检索，便可从存有该文件的“碎片”节点上，下载还原到本地，这就类似于BitTorrent（BT种子）下载，下载的人越多，节点基数越大，资源就越丰富，下载速度也就越快；
+IPFS seeks to create a permanent and distributed web. It does this by using a content-addressed system instead of HTTP’s location-based system.
 
-4、不容易被删除，信息保存安全。即使你将原始文件从上传节点中删除，只要曾经有人下载过，便将在网络中继续留存。由于IPFS使用了哈希加密算法，也使保证了保存在整个IPFS网络中的所有数据的安全性。
+An HTTP request would look like `http://10.20.30.40/folder/file.txt`
 
+An IPFS request would look like `/ipfs/QmT5NvUtoM5n/folder/file.txt`
 
+Instead of using an location address, IPFS uses a representation of the content itself to address the content. This is done using a cryptographic hash on a file and that is used as the address. The hash represents a root object and other objects can be found in its path. Instead of talking to a server, you gain access to this “starting point” of data. This way the system leverages physical proximity. If someone very close to me has what I want, I’ll get it directly from them instead of connecting to a central server. In the lecture example from earlier, the students in the classroom can pull the data from each other without all having to establish their own communication with the a server. With HTTP you are asking what is at a certain location whereas with IPFS you are asking where a certain file is. In order to accomplish this, IPFS synthesizes a few successful ideas from other peer-to-peer systems.
 
-### IPFS与HTTP的区别？
+To store data, IPFS uses a Distributed Hash Table, or DHT. Once we have a hash, we ask the peer network who has the content located at that hash and we download the content directly from the node that has the data I want. Data is transferred between the nodes in the network using mechanisms similar to BitTorrent. A user looking for some content on the IPFS web finds neighbors who have access to that content. They then download small bits of the content from those neighbors. On top of the DHT and the BitTorrent protocols, IPFS uses a Merkle Tree. This is a data structure similar to the one Git uses as a version control system and the protocol used in the bitcoin blockchain. In Git, its used to track versions of source code, whereas in IPFS it’s used to track content across the entire web.
 
-1、安全性：http属于集中化的，所有流量直接搭载在中心化的服务器上，承载的压力极大，容易造成系统崩溃，http还容易遭受DDOS攻击;ipfs的存储方式是去中心化的分片的分布式存储，黑客无法攻击，文件不易丢失，安全有保障。
+### IPFS and Blockchains
 
-2、效率：http依赖中心化服务网络，服务器容易被关闭，服务器上文件也容易被删除，服务器需要24小时开机;ipfs采用P2P网络拓扑，全网域的计算机都可以成为存储节点，就近分布式存储大大提高了网络效率
+Because of the similarity in their structure, IPFS and blockchains can work well together. In fact, Juan Benet, the inventor of IPFS calls this a “great marriage.” IPFS is one of a few projects that are part of a group called Protocol Labs, which was also founded by Benet. Some projects from Protocol Labs closely related to IPFS are IPLD (Inter-Planetary Linked Data) and Filecoin. IPLD is a data model for distributed data structures like blockchains. This model allows for easy storage and access of blockchain data through IPFS. Users willing to store IPFS data will be rewarded with Filecoin. IPLD allows users to seamlessly interact with multiple blockchains and has been integrated with Ethereum and Bitcoin.
 
-3、成本：http中心化服务器运行，需要较高的维护运行成本，中心化数据库一旦遭受DDOS攻击，或遭受不可抗力损害，所有数据将全部丢失;ipfs极大的降低服务器存储成本，也降低了服务器的带宽成本。
+> IPFS connects all these different blockchains in a way that’s similar to how the web connects all these websites together. The same way that you can drop a link on one page that links to another page, you can drop a link in ethereum [for example] that links to zcash and IPFS can resolve all of that. — Juan Benet
 
-4、http的客户网络访问绝大部分不是本地化的，有网络延迟，ipfs可以极大的加快网络访问速度，网络访问本地化，体验感会明显提升。
+IPFS and other projects from Protocol Labs are ambitious by nature. The idea of a permanent web that is resilient and efficient were no doubt also the goals of the original inventors of our internet protocols. However, over time as our usage of the web changed, weaknesses in these protocols became evident. Although it is in its early stages, IPFS shows promise in being a crucial piece of a new decentralized technology stack.

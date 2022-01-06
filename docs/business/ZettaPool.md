@@ -3,23 +3,25 @@ title: ZettaPool
 hide_table_of_contents: true
 ---
 
-1．用户群：面向接受区块链矿业投资的普通客户，包括投资客户及推广客户。当前主推Filecoin算力（有效存储空间）投资
+### Target: 
+All customers that accept digital-asset mining investment, including investors and promoters. Currently, we are promoting Filecoin store power investment.
 
+### Characteristics: 
+ZettaPool is a very successful financial product in Filecoin storage power marketing. It turns the complex digital-asset mining investment into a simple, stable and reliable investment for ordinary users. Now ZettaPool has near ten thousand promoters in Korea. Except for the sales reward, promoters can receive commissions from the 20% daily mining yield.
 
-2．特点：ZettaPool是一个非常成功的Filecoin算力理财产品。它把复杂的区块链矿业投资，变成人人可以参与的简单、稳定、可靠的投资行为。ZettaPool在韩国有近万名非常专业的推广者，推广者除了获得销售奖励之外，还可以针对挖矿收益的20%进行按比例分配。
+### Investment orientation: 
+TenetDS and 1475 Team will be responsible for the investment management. ZettaPool is quite welcomed by investors and promoters in Korea, China, Japan and Indonesia. With the help of professional mining management institutions, it turns the complex work in Filecoin node construction and mining management into a simple investment of storage power for ordinary investors. Besides, the 80% daily mining yield is distributed to the investors and promoters.
 
-3．投资方向：由TenetDS、1475等资管机构负责投资管理。此产品在韩国、中国、日本、印度尼西亚饱受投资者和推广者的欢迎。通过专业的矿业管理机构，可以把复杂的Filecoin的节点建设和管理工作，简化为有效存储空间（算力挖矿）的投资行为，并把每日挖矿收益中的80%分配给投资客户及推广客户。
+### Product details
 
-4．产品细则：
-
-（1）购买费用：1T = 40万韩元（附加税另算）
-
-（2）质押数量：1T = 5.5FIL (合同到期之后，将质押币返还至投资客户)
-
-（3）GAS数量：1T = 0.5FIL (数据封装1次时，需要消耗GAS，GAS由FIL来进行支付）
-
-（4）推广者收益：1. 购买设备费用的35%；2. 每天产出奖励的20%
-
-（5）合同期限：一年（最长五年）
-
-（6）收益发放：每周一发放给客户
+> (1)Selling price: 1T = 400,000 KRW (not includes additional tax)
+> 
+> (2)Pledge amount: 1T = 5.5FIL (When contract expires, the pledged FIL will be returned to investors)
+>
+> (3)GAS fee: 1T = 0.5FIL (Sealing data will cost GAS which is paid by FIL)
+>
+> (4)Promoter earnings: 1. 35% rebate from the equipment fee paid by its customers; 2. 20% daily mining yield.
+>
+> (5)Contract term: 1 year (the longest is 5 year term)
+>
+> (6)Earning distribution: Earnings will be distributed on every Monday.

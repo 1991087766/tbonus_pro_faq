@@ -27,7 +27,7 @@ Telegram Link：https://t.me/+pjVMJvW9svk2YzE9
 
 Telegram Link：https://t.me/+4iCP-8UchsliM2Q1
 
-咨询时间：**9:00 ~ 18:00(洛杉矶时间)**
+Consultation Time：**09:00 ~ 18:00 (Los Angeles Time)**
 
 ---
 

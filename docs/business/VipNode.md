@@ -1,26 +1,28 @@
 ---
-title: VIP节点
+title: VIP Product
 hide_table_of_contents: true
 ---
 
-1．用户群：面向VIP矿业投资客户
+### Target: 
+VIP mining investors
 
-2．特点：专属节点，独立运营，高回报率
+### Characteristics: 
+Exclusive node, independent operation, high return rate
 
-3．投资方向：由TenetDS、1475等资管机构负责投资管理。Tenet为Vip客户提供了两种节点产品，包括1P和5P有效算力。这两种产品都配置了：Tenet提供的超算集群使用权及1年托管运维(可续5年)，配置了星空生态分布式存储应用软件，filecoin 监控跟踪软件，AMD高配节点机集群，及相应数量的存储机集群(具有独立产权)。
+### Investment orientation: 
+TenetDS and 1475 Team will be responsible for the investment management. TenetDS provides VIP users 1P and 5P storage-power products. Both products are configured with super-computing cluster, 1-year-term custody and maintenance service (can be extended to 5 years), inter-planetary decentralized storage App, Filecoin monitoring and tracking app, highly-configured AMD node clusters and storage machine clusters (with IPR)
 
-4．产品细则：
-
-（1）投资费用：1P定制节点费用2.4亿韩元，5P定制节点费用11亿韩元
-
-（2）质押数量：1T = 5.5FIL//1P = 5632 FIL (合同到期之后，将质押币返还至投资客户)
-
-（3）GAS数量：1T = 0.5FIL//1P = 512 FIL(数据封装1次时，需要消耗GAS，GAS由FIL来进行支付）
-
-（4）合同期限：1年（可续5年）
-
-（5）收益发放：每周一次（每周一）
-
-（6）特点：合同到期之后，客户可获得具有独立产权的存储机集群，及相应的质押币
-
-官方收取托管费：每日产生奖励的15%（根据市场状况有所变动）
+### Product details:
+> (1)Investment amount: 1P customized node: 240M KRW; 5P customized node: 1.1B KRW
+>
+> (2)Pledge amount: 1T = 5.5FIL // 1P = 5632 FIL (When contract expires, the pledged FIL will be returned to investors)
+>
+> (3)GAS fee: 1T = 0.5FIL//1P = 512 FIL (Sealing data will cost GAS which is paid by FIL)
+> 
+> (4)Contract term: 1 year (can be extended into 5 year term)
+>
+> (5) Earning distribution: Earnings will be distributed on every Monday.
+> 
+> (6) Characteristics: When the contract expires, investors can take back the storage clusters with IPR and the pledged coins.
+> 
+> (7) Custody fee: 15% of daily mining yield (changing based on the market)

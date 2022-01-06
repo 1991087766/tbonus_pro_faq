@@ -1,24 +1,27 @@
 ---
-title: 挖矿宝
+title: Mining Pool
 hide_table_of_contents: true
 ---
+### Target: 
+All customers that accept digital-asset mining investment, including investors and referrers. Currently, we are promoting Filecoin real-data storage mining.
 
-1．用户群：面向接受区块链矿业投资的普通客户，包括投资客户及推广客户。当前主推Filecoin真实数据存储挖矿
+### Characteristics: 
+It turns the complex digital-asset mining investment into a simple, stable and reliable investment for every investors. For example, It turns the Filecoin real-data storage mining service into a simple pledging incentive mechanism, which will offer investors 80% daily mining yield providing no risk of losing the principal.
 
-2．特点：把复杂的区块链矿业投资，变成人人可以参与的简单、稳定、可靠的投资行为。例如，通过专业的矿业管理机构，把复杂的Filecoin真实数据存储服务，变成一种简单的质押激励行为，在客户的本金无损前提下，把每日挖矿收益中的80%分配给投资客户及推广客户。
+### Investment orientation: 
+TenetDS and 1475 Team will be responsible for the investment management. All FIL pledged by users will be used in Filecoin real-data storage mining. The 20% mining yield will be used to cover the cost of hardware, software, server room, Datacap investment in Filecoin mining, while 80% mining yield will be allocated to investors.
 
-3．投资方向：由TenetDS、1475等资管机构负责投资管理。用户质押的Fil全部用于Filecoin真实数据存储服务，把挖矿收入的20%用于覆盖提供真实数据存储所需要的所有硬件、软件、机房及Datacap的投入；另外80%用于客户分配。
-
-4．产品细则
-
-（1）根据质押的Fil数量，每个投资者可获得每天收益的30~55%，剩下的每日收益将以广告收益分配给推广者。（为了领取广告收益必须申请3年的挖矿宝服务。
-
-（2）固定的质押数量与收益对比图：
-
-（3）合同年限：挖矿宝合同期间可选择：1年/2年/3年, 3年的合同结束之后可自然续期2年（共5年）
-
-（4）解除合同：广告收益必须申请3年合同的会员才可以参与。1年/2年de 合同会员只能获取每天挖矿收益。解除合同可在1年合同期满前申请，但需要收回所有收益，只返还本金。
-
-（5）投入后第七个自然日开始计算收益
-
-（6）收益发放：每周二发放给客户
+### Product Details
+> (1)Based on the number of pledged FIL, each investor can receive 30 - 55% daily mining yield. The remained will be distributed to referrers as promotion fee. (To receive promotion fee, the referrer must have signed the 3-year mining contract.)
+> 
+> (2)FIL pledge number and earning rate:
+> 
+> ![alt 属性文本](../../static/img/c/c.MiningPool.png)
+> 
+> (3)Contract term: Investors can choose to sign a 1-year/2-year/3-year term contract, and it can extend for 2 years if the 3-year-term contract expires.
+> 
+> (4)Contract termination: Referrers who want to receive the promotion fee must sign a 3-year-term contract. The investors signing for 1-year/2-year term contract can only receive the daily mining yield. Investors can terminate the contract before the 1-year-term contract expires, but all yield will be took back and only the principal returned to investors.
+> 
+> (5)The earning will start to be calculated 7 days after pledging FIL coin.
+> 
+> (6)Earning distribution: it will be distributed to customers every Tuesday.
