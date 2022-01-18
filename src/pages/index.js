@@ -10,9 +10,9 @@ import HomePageListFAQ from "../components/HomePageAnnouncement";
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary my_hero', styles.heroBanner)}>
           <div className="container">
-              <h3 className="hero__title">
+              <h3 className="my_title">
                   <Translate
                       id="Welcome to TbonusPro"
                   >Welcome to TbonusPro!</Translate>

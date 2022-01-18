@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.my_title{
+  font-size: 2rem;
+}
+
+.my_hero{
+  background-color: #45B78A;
+}
