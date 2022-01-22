@@ -60,7 +60,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()}~${new Date().getFullYear()+1} TbonusPro, All rights reserve.`,
+        copyright: `Copyright © 2021~2022 TbonusPro, All rights reserve.`,
       },
       prism: {
         theme: lightCodeTheme,
