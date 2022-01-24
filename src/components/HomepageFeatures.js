@@ -32,9 +32,9 @@ const FeatureList = [
         description: "/docs/TermsDescription/Agreement",
     },
     {
-        title: "About",
+        title: "ContactUs",
         Svg: require('../../static/img/icon_about.svg').default,
-        description: "/docs/about/TbonusPro",
+        description: "/docs/about/ContactUs",
     },
 ];
 
