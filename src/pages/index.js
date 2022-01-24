@@ -17,10 +17,10 @@ function HomepageHeader() {
                       id="Welcome to TbonusPro"
                   >Welcome to TbonusPro!</Translate>
               </h3>
-              <p className="hero__subtitle">
+              <p className="my_subtitle">
                   <Translate
                       id="My Slogan"
-                  >Make Life Better</Translate>
+                  >Make Life Better!</Translate>
               </p>
           </div>
       </header>
