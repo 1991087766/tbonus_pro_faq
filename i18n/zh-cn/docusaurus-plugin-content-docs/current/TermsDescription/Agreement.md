@@ -1,5 +1,5 @@
 ---
-title: 티라크 개인정보 처리방침
+title: 用户协议与隐私政策
 hide_table_of_contents: true
 ---
 [티라크 개인정보 처리방침]

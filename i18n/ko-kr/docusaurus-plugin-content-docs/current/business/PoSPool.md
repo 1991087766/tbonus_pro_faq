@@ -1,30 +1,30 @@
 ---
-title: PoS Pool
+title: 예치상품
 hide_table_of_contents: true
 ---
 
-### Target: 
-Cryptocurrency users
+### 회원:
+가상자산 회원 대상
 
-### Characteristics: 
-It offers staking and saving services, deposit program and time-limit promotions that users can choose to stake or save cryptos to earn stable earnings.
+### 특징:
+정기 정액 투자, 보통 예금, 예치 계획, 기간 한정 이벤트 등 재테크 서비스를 통해 단기간에 안정적으로 수익을 얻을 수 있으며, 입출금이 용이하다.
 
-### Investment orientation 1: 
-The fund in “PoS Pool” will be managed by TenetDS and 1475 Team. Except for the reserve fund, it will be invested as pledge coins in Filecoin mining. The mining yield will cover the APY of PoS Pool.
+### 투자방향 1:
+테넷디에스, 1475 등 투자관리기업이 투자관리를 담당한다. 준비금 차감 외 예치상품의 일부 자산은 파일코인(Filecoin) 담보 마이닝에 사용되고, 담보 원금 손실 없이 마이닝 수익은 예치상품 연 수익률을 상회한다.
 
-### Investment orientation 2: 
-Except for the reserve fund, a part will be management by Chainup and it will be invested in Quantitative Fund with yield covering PoS Pool’s APY.
+### 투자방향 2:
+체인업이 투자관리를 담당한다. 준비금 차감 외 예치상품의 일부 자산은 펀드관리에 사용되며, 펀드 수익은 예치상품 연 수익률을 상회한다.
 
-### Risk Management: 
-TP has established a special risk management system for digital assets, to not only ensure customer’s asset safety, but also balance and optimize the investments.
+### 리스크 관리:
+TP는 회원의 자산을 안전하게 지키면서 투자 방향을 선택할 수 있는 독자적인 가상자산 리스크 관리 시스템을 구축했다.
 
-### Product details:
-> (1) Staking: It offers 7-day/30-day/90-day/180-day staking services for FIL/BTC/ETH/USDT/Metacoin with tiered interest rates.
-> 
-> (2) Saving: It offers an annualized interest rate of 3.65%.
-> 
-> (3) Deposit program: Users are able to select cryptocurrencies, period and amount freely, say, users can invest 100 USDT fixedly every month.
-> 
-> (4) Time-limit promotions: It offers 1-year/3-year/5-year staking products with high interest rate. The interest will be settled per month. If quit before mature, the interest rate will be that of the saving products.
-> 
-> (5) New-user Discount: It offers financial products with discount for new users.
+### 상품정보
+>(1) 정기 정액 투자: Fil/BTC/ETH/USDT/Metacoin을 대상으로 7일/30일/90일/180일 예치 서비스 제공, 단계별 수익 설정.
+>
+>(2) 보통 예금: 연 수익률 3.65% 제공.
+>
+>(3) 예치 계획: 가상자산, 시간, 수량 등 자유롭게 선택 가능. 예를 들어 매월 100개 USDT 고정 투자 가능.
+>
+>(4) 기간 한정 이벤트: 1년/3년/5년 우대 수익 상품 한시적 출시. 장기 수익은 월별로 지급하며, 중도 탈퇴 시 예금 상품에 따라 수익 정산.
+>
+>(5) 신규 회원: 신규 재테크 회원을 위한 우대 수익 상품 출시.

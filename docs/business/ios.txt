@@ -1,0 +1,15 @@
+"save_currency_product_activity_regular_end_prompt" = "（未到期的订单正常计息）";
+"notifi_nav_title" = "公告";
+"notifi_style_all_segment" = "全部";
+"notifi_style_import_segment" = "重要";
+"notifi_style_notifier_segment" = "通知";
+"notifi_style_message_list_style_import" = "重要";
+"notifi_style_message_list_style_emergency" = "紧急";
+"notifi_style_message_detail_nav_title" = "公告详情";
+
+"integral_store_pay_type_transfer" = "转账支付";
+"integral_store_pay_type_credit" = "信用卡";
+"integral_store_pay_type_quicky_pay" = "快捷支付";
+"save_currency_product_has_buy" = "已购买";
+"save_currency_hold_yestoday_earnings" = "昨日收益(USDT)";
+"big_customer_center_24h_earning_prompt" = "取值为首尔时间每日凌晨0点获得的数据";
