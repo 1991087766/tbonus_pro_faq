@@ -1,5 +1,5 @@
 ---
-title: 积分宝
+title: 포인트 쉐어
 hide_table_of_contents: true
 ---
 

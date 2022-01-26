@@ -1,5 +1,5 @@
 ---
-title: VIP节点
+title: VIP 마이닝 노드
 hide_table_of_contents: true
 ---
 

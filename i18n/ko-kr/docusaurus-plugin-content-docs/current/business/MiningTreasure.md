@@ -1,5 +1,5 @@
 ---
-title: 挖矿宝
+title: 마이닝 쉐어
 hide_table_of_contents: true
 ---
 

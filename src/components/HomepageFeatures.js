@@ -21,18 +21,18 @@ const FeatureList = [
         Svg: require('../../static/img/icon_pool.svg').default,
         description: "/docs/business/VipNode",
     },
-    {
-        title: 'FAQ',
-        Svg: require('../../static/img/icon_problem.svg').default,
-        description: "/docs/FAQ/faq_sms",
-    },
+    // {
+    //     title: 'FAQ',
+    //     Svg: require('../../static/img/icon_problem.svg').default,
+    //     description: "/docs/FAQ/faq_sms",
+    // },
     {
         title: 'Term Description',
         Svg: require('../../static/img/icon_clause.svg').default,
         description: "/docs/TermsDescription/Agreement",
     },
     {
-        title: "ContactUs",
+        title: "Contact Us",
         Svg: require('../../static/img/icon_about.svg').default,
         description: "/docs/about/ContactUs",
     },

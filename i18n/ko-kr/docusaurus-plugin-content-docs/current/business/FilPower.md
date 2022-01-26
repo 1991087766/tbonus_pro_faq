@@ -1,5 +1,5 @@
 ---
-title: 官方算力
+title: 해시레이트
 hide_table_of_contents: true
 ---
 
