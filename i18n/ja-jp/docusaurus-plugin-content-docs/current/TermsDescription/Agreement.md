@@ -111,7 +111,7 @@ hide_table_of_contents: true
 
 ② 재화 또는 서비스 제공에 따른 법령에 의한 보존
 
-![alt 属性文本](../../../../../static/img/novice_guide/agreement/20220129-234038.png)
+![alt 属性文本](../../../../../static/img/novice_guide/agreement/20220129-234041.png)
 
 
 6. 개인정보 파기 절차 및 방법
