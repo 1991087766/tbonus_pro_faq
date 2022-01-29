@@ -1,5 +1,5 @@
 ---
-title: Register
+title: 注册指南
 hide_table_of_contents: true
 ---
 

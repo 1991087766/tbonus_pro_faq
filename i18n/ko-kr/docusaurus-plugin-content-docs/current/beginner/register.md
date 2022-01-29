@@ -1,5 +1,5 @@
 ---
-title: Register
+title: 회원가입하기
 hide_table_of_contents: true
 ---
 
