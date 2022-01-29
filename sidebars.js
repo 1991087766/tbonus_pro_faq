@@ -44,6 +44,7 @@ const sidebars = {
       type: 'category',  //新手指南
       label: 'Beginner Guide',
       items: [
+        'beginner/register', // 注册账号
         'beginner/TfilPoint', // TFIL积分
         'beginner/IPFS', // IPFS去中心化存储
       ],

@@ -9,7 +9,7 @@ const FeatureList = [
     {
         title: "Beginner Guide",
         Svg: require('../../static/img/icon_guide1.svg').default,
-        description: "/docs/beginner/IPFS",
+        description: "/docs/beginner/register",
     },
     {
         title: 'Business Center',
