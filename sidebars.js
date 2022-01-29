@@ -80,6 +80,7 @@ const sidebars = {
       items: [
         'TermsDescription/Agreement',
         'TermsDescription/Disclaimer', // 免责声明
+        'TermsDescription/SubscriptionInformation', // 订阅商品广告
       ],
     },
     {
