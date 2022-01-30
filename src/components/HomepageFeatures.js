@@ -11,16 +11,16 @@ const FeatureList = [
         Svg: require('../../static/img/icon_guide1.svg').default,
         description: "/docs/beginner/guide/register",
     },
-    {
-        title: 'Business Center',
-        Svg: require('../../static/img/icon_business.svg').default,
-        description: "/docs/business/PoSPool",
-    },
-    {
-        title: "Earl Pool",
-        Svg: require('../../static/img/icon_pool.svg').default,
-        description: "/docs/business/VipNode",
-    },
+    // {
+    //     title: 'Business Center',
+    //     Svg: require('../../static/img/icon_business.svg').default,
+    //     description: "/docs/business/PoSPool",
+    // },
+    // {
+    //     title: "Earl Pool",
+    //     Svg: require('../../static/img/icon_pool.svg').default,
+    //     description: "/docs/business/VipNode",
+    // },
     // {
     //     title: 'FAQ',
     //     Svg: require('../../static/img/icon_problem.svg').default,
@@ -29,7 +29,7 @@ const FeatureList = [
     {
         title: 'Term Description',
         Svg: require('../../static/img/icon_clause.svg').default,
-        description: "/docs/TermsDescription/Agreement",
+        description: "/docs/TermsDescription/Disclaimer",
     },
     {
         title: "Contact Us",

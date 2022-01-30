@@ -54,6 +54,7 @@ const sidebars = {
             'beginner/tfil_tmeta/tfilPoint', // 积分说明
             'beginner/tfil_tmeta/buyTfil', // 积分购买
             'beginner/tfil_tmeta/tfilCancelPurchase', // 取消购买
+            'beginner/tfil_tmeta/tfilTmetaChenge', // 取消购买
             'beginner/tfil_tmeta/tfilRealization', // 积分提现
           ],
         },
@@ -71,8 +72,8 @@ const sidebars = {
           items: [
             'beginner/customer_service/cs_contact', // 联系客服
             'beginner/customer_service/cs_tp', // TP介绍
-            'beginner/customer_service/cs_uoc', // 虚拟货币使用
-            'beginner/customer_service/cs_tos', // 服务条款
+            // 'beginner/customer_service/cs_uoc', // 虚拟货币使用
+            // 'beginner/customer_service/cs_tos', // 服务条款
             'beginner/customer_service/cs_agr', // 隐私政策
           ],
         },
@@ -82,18 +83,18 @@ const sidebars = {
       type: 'category', //伯爵矿池
       label: 'Earl Pool',
       items: [
-        'business/PointPool',  // 积分宝
-        'business/VipNode',  // VIP节点
-        'business/FilPower',  // 官方算力
-        'business/ZettaPool',  // ZettaPool
-        'business/MiningTreasure',  // 挖矿宝
+        // 'business/PointPool',  // 积分宝
+        // 'business/VipNode',  // VIP节点
+        // 'business/FilPower',  // 官方算力
+        // 'business/ZettaPool',  // ZettaPool
+        // 'business/MiningTreasure',  // 挖矿宝
       ],
     },
     {
       type: 'category', // 业务中心
       label: 'Business Center',
       items: [
-        'business/PoSPool',  // 存币宝
+        // 'business/PoSPool',  // 存币宝
       ],
     },
     {
@@ -107,7 +108,7 @@ const sidebars = {
       type: 'category', // 条款说明
       label: 'Term Description',
       items: [
-        'TermsDescription/Agreement',
+        // 'TermsDescription/Agreement',
         'TermsDescription/Disclaimer', // 免责声明
         'TermsDescription/SubscriptionInformation', // 订阅商品广告
       ],
@@ -116,7 +117,7 @@ const sidebars = {
       type: 'category', // 关于我们
       label: 'About',
       items: [
-        'about/TbonusPro', // TP介绍
+        // 'about/TbonusPro', // TP介绍
         'about/ContactUs', // TP介绍
       ],
     },

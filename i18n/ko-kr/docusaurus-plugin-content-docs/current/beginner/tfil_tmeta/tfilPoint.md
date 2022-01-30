@@ -1,5 +1,5 @@
 ---
-title: TFIL & TMETA
+title: TFIL & TMETA 소개
 hide_table_of_contents: true
 ---
 
@@ -24,4 +24,7 @@ TMETA는 메타버스를 위한 스테이블코인입니다.
 메타버스가 아닌 실제 세계의 자산 가치와 연동된 TMETA는 실제 세계와 메타버스를 연결하는 교두보 역할을 하게 됩니다. TMETA는 향후 수많은 메타버스 플랫폼 내에서 기축이 되는 가상자산으로 자리잡을 예정입니다.
 
 현재 Tbonus Pro에서는 TMETA와 포인트(TFIL)간 교환이 가능하며 1 TFIL은 400 TMETA입니다. 아울러 글로벌 가상자산 거래소, 토큰캔에 TMETA를 이체할 수 있으며, 해당 마켓에서 BTC, ETH, FIL 거래가 가능합니다.
+
+**[1:1 문의하기](http://pf.kakao.com/_xgkzBb)**
+
 

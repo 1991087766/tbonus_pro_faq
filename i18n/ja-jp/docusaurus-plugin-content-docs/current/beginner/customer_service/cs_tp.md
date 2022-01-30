@@ -1,5 +1,5 @@
 ---
-title: Tbonus Pro Introduction
+title: Tbonus Pro 소개
 hide_table_of_contents: true
 ---
 
