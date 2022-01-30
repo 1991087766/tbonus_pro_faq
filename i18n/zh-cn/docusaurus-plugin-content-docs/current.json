@@ -11,7 +11,7 @@
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Beginner Guide": {
+  "sidebar.tutorialSidebar.category.Use Guide": {
     "message": "初学指南",
     "description": "导航目录"
   },
@@ -38,5 +38,23 @@
   "sidebar.tutorialSidebar.category.About": {
     "message": "关于我们",
     "description": "导航目录"
+  },
+
+
+  "sidebar.tutorialSidebar.category.Beginner Guide": {
+    "message": "新手指南",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.TFIL & TMETA": {
+    "message": "TFIL&TMETA指南",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.Full lift": {
+    "message": "资产充提指南",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.Customer Service": {
+    "message": "客服帮助",
+    "description": "Use Guide"
   }
 }

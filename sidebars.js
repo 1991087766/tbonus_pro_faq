@@ -33,20 +33,49 @@ const sidebars = {
 
 
   tutorialSidebar: [
-    // {
-    //   type: 'category',  //公告中心
-    //   label: 'Announcement',
-    //   items: [
-    //
-    //   ],
-    // },
     {
       type: 'category',  //新手指南
-      label: 'Beginner Guide',
+      label: 'Use Guide',
       items: [
-        'beginner/register', // 注册账号
-        'beginner/TfilPoint', // TFIL积分
-        'beginner/IPFS', // IPFS去中心化存储
+        {
+          type: 'category',  //新手指南
+          label: 'Beginner Guide',
+          items: [
+            'beginner/guide/register', // 注册账号
+            'beginner/guide/tid_description', // TID说明
+            'beginner/guide/kyc', // GA绑定
+            'beginner/guide/bind_otp', // GA绑定
+          ],
+        },
+        {
+          type: 'category',
+          label: 'TFIL & TMETA', //TFIL, TMETA 指南
+          items: [
+            'beginner/tfil_tmeta/tfilPoint', // 积分说明
+            'beginner/tfil_tmeta/buyTfil', // 积分购买
+            'beginner/tfil_tmeta/tfilCancelPurchase', // 取消购买
+            'beginner/tfil_tmeta/tfilRealization', // 积分提现
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Full lift', // 充提指南
+          items: [
+            'beginner/filling/recharge', // 充值
+            'beginner/filling/withdraw', // 提现
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Customer Service', // 客服帮助
+          items: [
+            'beginner/customer_service/cs_contact', // 联系客服
+            'beginner/customer_service/cs_tp', // TP介绍
+            'beginner/customer_service/cs_uoc', // 虚拟货币使用
+            'beginner/customer_service/cs_tos', // 服务条款
+            'beginner/customer_service/cs_agr', // 隐私政策
+          ],
+        },
       ],
     },
     {

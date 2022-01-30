@@ -7,9 +7,9 @@ import Link from "@docusaurus/core/lib/client/exports/Link";
 
 const FeatureList = [
     {
-        title: "Beginner Guide",
+        title: "Use Guide",
         Svg: require('../../static/img/icon_guide1.svg').default,
-        description: "/docs/beginner/register",
+        description: "/docs/beginner/guide/register",
     },
     {
         title: 'Business Center',

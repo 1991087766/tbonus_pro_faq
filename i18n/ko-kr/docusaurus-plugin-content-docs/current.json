@@ -11,7 +11,7 @@
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Beginner Guide": {
+  "sidebar.tutorialSidebar.category.Use Guide": {
     "message": "이용안내",
     "description": "新手引导"
   },
@@ -38,5 +38,23 @@
   "sidebar.tutorialSidebar.category.About": {
     "message": "About",
     "description": "关于我们"
+  },
+
+
+  "sidebar.tutorialSidebar.category.Beginner Guide": {
+    "message": "초보자 가이드",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.TFIL & TMETA": {
+    "message": "TFIL, TEMETA 가이드",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.Full lift": {
+    "message": "이체 가이드",
+    "description": "Use Guide"
+  },
+  "sidebar.tutorialSidebar.category.Customer Service": {
+    "message": "고객지원",
+    "description": "Use Guide"
   }
 }

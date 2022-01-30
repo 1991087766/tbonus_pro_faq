@@ -7,7 +7,7 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
     {
-        title: "Beginner Guide",
+        title: "Use Guide",
         Svg: require('../../static/img/icon_guide.svg').default,
         url: "/docs/about/TbonusPro",
     },
