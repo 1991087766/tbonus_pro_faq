@@ -35,8 +35,8 @@
     "message": "안내센터",
     "description": "业务中心"
   },
-  "sidebar.tutorialSidebar.category.About": {
-    "message": "About",
+  "sidebar.tutorialSidebar.category.About Us": {
+    "message": "About Us",
     "description": "关于我们"
   },
 
@@ -46,7 +46,7 @@
     "description": "Use Guide"
   },
   "sidebar.tutorialSidebar.category.TFIL & TMETA": {
-    "message": "TFIL, TEMETA 가이드",
+    "message": "TFIL & TMETA 가이드",
     "description": "Use Guide"
   },
   "sidebar.tutorialSidebar.category.Full lift": {

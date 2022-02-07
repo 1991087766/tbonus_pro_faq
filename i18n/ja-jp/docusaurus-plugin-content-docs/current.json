@@ -27,7 +27,7 @@
     "message": "条約説明",
     "description": "The label for category Terms Description in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.About": {
+  "sidebar.tutorialSidebar.category.About Us": {
     "message": "私たちについて",
     "description": "The label for category Abount in sidebar tutorialSidebar"
   },
@@ -38,7 +38,7 @@
     "description": "Use Guide"
   },
   "sidebar.tutorialSidebar.category.TFIL & TMETA": {
-    "message": "TFIL, TEMETA 가이드",
+    "message": "TFIL & TMETA 가이드",
     "description": "Use Guide"
   },
   "sidebar.tutorialSidebar.category.Full lift": {

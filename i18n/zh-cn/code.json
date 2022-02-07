@@ -1,4 +1,52 @@
 {
+
+  "Register": {
+    "message": "注册账号",
+    "description": "首页"
+  },
+  "Tid Description": {
+    "message": "TID说明",
+    "description": "首页"
+  },
+  "KYC": {
+    "message": "实名认证",
+    "description": "首页"
+  },
+  "OTP": {
+    "message": "GA绑定",
+    "description": "首页"
+  },
+  "TFIL & TMETA": {
+    "message": "TFIL & TMETA",
+    "description": "首页"
+  },
+  "Buy TFIL": {
+    "message": "TFIL购买",
+    "description": "首页"
+  },
+  "Cancel TFIL Purchase": {
+    "message": "取消购买TFIL",
+    "description": "首页"
+  },
+  "Quick Exchange": {
+    "message": "极速兑换",
+    "description": "首页"
+  },
+  "TFIL Withdrawal": {
+    "message": "TFIL提现",
+    "description": "首页"
+  },
+  "Recharge": {
+    "message": "数字资产-充币",
+    "description": "首页"
+  },
+  "Withdraw": {
+    "message": "数字资产-提币",
+    "description": "首页"
+  },
+
+
+
   "Contact Us": {
     "message": "联系我们",
     "description": "首页"

@@ -7,13 +7,77 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
     {
-        title: "Use Guide",
+        title: "Register",
+        url: "/docs/beginner/guide/register",
         Svg: require('../../static/img/icon_guide.svg').default,
-        url: "/docs/about/TbonusPro",
     },
+    {
+        title: "Tid Description",
+        url: "/docs/beginner/guide/tid_description",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "KYC",
+        url: "/docs/beginner/guide/kyc",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "OTP",
+        url: "/docs/beginner/guide/bind_otp",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "TFIL & TMETA",
+        url: "/docs/beginner/tfil_tmeta/tfilPoint",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "Buy TFIL",
+        url: "/docs/beginner/tfil_tmeta/buyTfil",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "Cancel TFIL Purchase",
+        url: "/docs/beginner/tfil_tmeta/tfilCancelPurchase",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "Quick Exchange",
+        url: "/docs/beginner/tfil_tmeta/tfilTmetaChenge",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "TFIL Withdrawal",
+        url: "/docs/beginner/tfil_tmeta/tfilRealization",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "Recharge",
+        url: "/docs/beginner/filling/recharge",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    {
+        title: "Withdraw",
+        url: "/docs/beginner/filling/withdraw",
+        Svg: require('../../static/img/icon_guide.svg').default,
+    },
+    
 ];
+        // 'beginner/guide/register', // 注册账号
+        // 'beginner/guide/tid_description', // TID说明
+        // 'beginner/guide/kyc', // 实名认证
+        // 'beginner/guide/bind_otp', // GA绑定
 
-function Feature({title,Svg, url}) {
+        // 'beginner/tfil_tmeta/tfilPoint', // 积分说明
+        // 'beginner/tfil_tmeta/buyTfil', // 积分购买
+        // 'beginner/tfil_tmeta/tfilCancelPurchase', // 取消购买
+        // 'beginner/tfil_tmeta/tfilTmetaChenge', // 取消购买
+        // 'beginner/tfil_tmeta/tfilRealization', // 积分提现
+
+        // 'beginner/filling/recharge', // 充值
+        // 'beginner/filling/withdraw', // 提现
+
+function Feature({title, url, Svg}) {
     return (
         <div className={clsx('col col--12')}>
             <Link to={url}>
@@ -40,9 +104,9 @@ function Feature({title,Svg, url}) {
 export default function HomePageAnnouncement() {
     return (
         <div>
-            <h3 className="container">
+            {/* <h3 className="container">
                 <Translate >Announcement</Translate>
-            </h3>
+            </h3> */}
             <section className={styles.features}>
                 <div className="container">
                     <div className="row">

@@ -35,61 +35,57 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',  //新手指南
-      label: 'Use Guide',
+      label: 'Beginner Guide',
       items: [
-        {
-          type: 'category',  //新手指南
-          label: 'Beginner Guide',
-          items: [
-            'beginner/guide/register', // 注册账号
-            'beginner/guide/tid_description', // TID说明
-            'beginner/guide/kyc', // GA绑定
-            'beginner/guide/bind_otp', // GA绑定
-          ],
-        },
-        {
-          type: 'category',
-          label: 'TFIL & TMETA', //TFIL, TMETA 指南
-          items: [
-            'beginner/tfil_tmeta/tfilPoint', // 积分说明
-            'beginner/tfil_tmeta/buyTfil', // 积分购买
-            'beginner/tfil_tmeta/tfilCancelPurchase', // 取消购买
-            'beginner/tfil_tmeta/tfilTmetaChenge', // 取消购买
-            'beginner/tfil_tmeta/tfilRealization', // 积分提现
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Full lift', // 充提指南
-          items: [
-            'beginner/filling/recharge', // 充值
-            'beginner/filling/withdraw', // 提现
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Customer Service', // 客服帮助
-          items: [
-            'beginner/customer_service/cs_contact', // 联系客服
-            'beginner/customer_service/cs_tp', // TP介绍
-            // 'beginner/customer_service/cs_uoc', // 虚拟货币使用
-            // 'beginner/customer_service/cs_tos', // 服务条款
-            'beginner/customer_service/cs_agr', // 隐私政策
-          ],
-        },
+        'beginner/guide/register', // 注册账号
+        'beginner/guide/tid_description', // TID说明
+        'beginner/guide/kyc', // GA绑定
+        'beginner/guide/bind_otp', // GA绑定
       ],
     },
     {
-      type: 'category', //伯爵矿池
-      label: 'Earl Pool',
+      type: 'category',
+      label: 'TFIL & TMETA', //TFIL, TMETA 指南
       items: [
-        // 'business/PointPool',  // 积分宝
-        // 'business/VipNode',  // VIP节点
-        // 'business/FilPower',  // 官方算力
-        // 'business/ZettaPool',  // ZettaPool
-        // 'business/MiningTreasure',  // 挖矿宝
+        'beginner/tfil_tmeta/tfilPoint', // 积分说明
+        'beginner/tfil_tmeta/buyTfil', // 积分购买
+        'beginner/tfil_tmeta/tfilCancelPurchase', // 取消购买
+        'beginner/tfil_tmeta/tfilTmetaChenge', // 取消购买
+        'beginner/tfil_tmeta/tfilRealization', // 积分提现
       ],
     },
+    {
+      type: 'category',
+      label: 'Full lift', // 充提指南
+      items: [
+        'beginner/filling/recharge', // 充值
+        'beginner/filling/withdraw', // 提现
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Customer Service', // 客服帮助
+      items: [ 
+        'beginner/customer_service/cs_contact', // 联系客服
+        'beginner/customer_service/cs_tp', // TP介绍
+        // 'beginner/customer_service/cs_uoc', // 虚拟货币使用
+        // 'beginner/customer_service/cs_tos', // 服务条款
+        'beginner/customer_service/cs_agr', // 隐私政策
+        // 'TermsDescription/Disclaimer', // 免责声明
+        'TermsDescription/SubscriptionInformation', // 订阅商品广告
+      ],
+    },
+    // {
+    //   type: 'category', //伯爵矿池
+    //   label: 'Earl Pool',
+    //   items: [
+    //     // 'business/PointPool',  // 积分宝
+    //     // 'business/VipNode',  // VIP节点
+    //     // 'business/FilPower',  // 官方算力
+    //     // 'business/ZettaPool',  // ZettaPool
+    //     // 'business/MiningTreasure',  // 挖矿宝
+    //   ],
+    // },
     {
       type: 'category', // 业务中心
       label: 'Business Center',
@@ -104,21 +100,19 @@ const sidebars = {
 
       ],
     },
-    {
-      type: 'category', // 条款说明
-      label: 'Term Description',
-      items: [
-        // 'TermsDescription/Agreement',
-        'TermsDescription/Disclaimer', // 免责声明
-        'TermsDescription/SubscriptionInformation', // 订阅商品广告
-      ],
-    },
+    // {
+    //   type: 'category', // 条款说明
+    //   label: 'Term Description',
+    //   items: [
+    //     // 'TermsDescription/Agreement',
+    //   ],
+    // },
     {
       type: 'category', // 关于我们
-      label: 'About',
+      label: 'About Us',
       items: [
         // 'about/TbonusPro', // TP介绍
-        'about/ContactUs', // TP介绍
+        // 'about/ContactUs', // TP介绍
       ],
     },
   ],

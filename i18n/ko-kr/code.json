@@ -1,4 +1,52 @@
 {
+
+
+  "Register": {
+    "message": "회원가입하기",
+    "description": "首页"
+  },
+  "Tid Description": {
+    "message": "TID안내",
+    "description": "首页"
+  },
+  "KYC": {
+    "message": "실명인증하기",
+    "description": "首页"
+  },
+  "OTP": {
+    "message": "OTP연동하기",
+    "description": "首页"
+  },
+  "TFIL & TMETA": {
+    "message": "TFIL & TMETA 소개",
+    "description": "首页"
+  },
+  "Buy TFIL": {
+    "message": "TFIL 구매(충전)하기",
+    "description": "首页"
+  },
+  "Cancel TFIL Purchase": {
+    "message": "TFIL 구매 주문 취소하기",
+    "description": "首页"
+  },
+  "Quick Exchange": {
+    "message": "TMETA교환",
+    "description": "首页"
+  },
+  "TFIL Withdrawal": {
+    "message": "TFIL 환불하기",
+    "description": "首页"
+  },
+  "Recharge": {
+    "message": "가상자산 입금하기",
+    "description": "首页"
+  },
+  "Withdraw": {
+    "message": "가상자산 출금하기",
+    "description": "首页"
+  },
+
+
   "Contact Us": {
     "message": "고객센터",
     "description": "首页"
