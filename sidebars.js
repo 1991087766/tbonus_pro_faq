@@ -69,10 +69,11 @@ const sidebars = {
         'beginner/customer_service/cs_contact', // 联系客服
         'beginner/customer_service/cs_tp', // TP介绍
         // 'beginner/customer_service/cs_uoc', // 虚拟货币使用
-        // 'beginner/customer_service/cs_tos', // 服务条款
+        'beginner/customer_service/cs_tos', // 服务条款
         'beginner/customer_service/cs_agr', // 隐私政策
         // 'TermsDescription/Disclaimer', // 免责声明
-        'TermsDescription/SubscriptionInformation', // 订阅商品广告
+        // 'TermsDescription/SubscriptionInformation', // 订阅商品广告
+        'beginner/customer_service/cs_ap', // 订阅商品广告
       ],
     },
     // {
