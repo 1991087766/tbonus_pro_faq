@@ -83,7 +83,7 @@ function Feature({title, url, Svg}) {
             <Link to={url}>
                 <div className="text--center home_type_background home_type_faq_bg">
                     <div className="text--center padding-horiz--md home_type_faq">
-                        <h4 className="home_text">
+                        <h4 className="my_home_text">
                             <Translate
                                 id={title}
                                 description="The homepage welcome message">
