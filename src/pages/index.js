@@ -19,8 +19,8 @@ function HomepageHeader() {
               </h4>
               <h3 className="my_subtitle">
                   <Translate
-                      id="Welcome to TbonusPro"
-                  >Welcome to TbonusPro!</Translate>
+                      id="Welcome to Tbonus Pro"
+                  >Welcome to Tbonus Pro!</Translate>
               </h3>
           </div>
       </header>
@@ -31,7 +31,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`TbonusPro FAQ`}
+      title={`FAQ`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

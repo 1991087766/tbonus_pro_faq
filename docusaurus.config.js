@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TbonusPro',
+  title: 'Tbonus Pro',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -45,9 +45,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'TbonusPro',
+        title: 'Tbonus Pro',
         logo: {
-          alt: 'TbonusPro',
+          alt: 'Tbonus Pro',
           src: 'img/logo.svg',
         },
         items: [
@@ -60,7 +60,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © 2021~2022 TbonusPro, All rights reserve.`,
+        copyright: `Copyright © 2021~2022 Tbonus Pro, All rights reserve.`,
       },
       prism: {
         theme: lightCodeTheme,
