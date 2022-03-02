@@ -30,7 +30,7 @@ TMETA 마켓이 있는 거래소로 TMETA를 이체하면, 해당 마켓에서 �
 
 현재 오픈된 포인트(TFIL) 예치상품, 'T보너스'의 경우 파일코인(FIL) 마이닝에 필요한 Miner 서버를 대여하는 상품권 역할을 합니다. 자세한 내용 아래 'T보너스 상품소개'에서 확인 부탁드립니다.
 
-[텔레그램 바로가기 >](https://tbonuspro.imweb.me/service/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=10367714&t=board)
+[T보너스 상품소개 >](https://tbonuspro.imweb.me/service/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=10367714&t=board)
 
 
 
