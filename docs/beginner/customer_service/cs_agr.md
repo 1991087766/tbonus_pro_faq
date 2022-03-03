@@ -66,7 +66,7 @@ hide_table_of_contents: true
 
 • 개인정보처리위탁 업체
 
-![img.png](../../../static/img/beginner/cs/cs_agr_02.png)
+![img.png](../../../static/img/beginner/cs/cs_agr_021.png)
 
 “회사”는 위탁업무의 내용이나 수탁자가 추가 및 변경될 경우에는 지체없이 본 개인정보처리방침을 통하여 공개하고 이용자의 동의가 필요한 경우 이용자들의 동의를 받습니다.
 
@@ -236,11 +236,11 @@ hide_table_of_contents: true
 
 제 12조 개인정보 열람청구
 
->-담당부서:
+>-담당부서:  서비스 운영팀
 >
->-전화번호:
+>-전화번호:  010-7658-3758
 >
->-이메일:
+>-이메일:   support@tbonuspro.com
 
 제 13조 개인정보처리방침 변경
 
